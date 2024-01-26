@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: gold;
+
+}
+
+a:hover{
+    color: deeppink;
+    border-bottom: deeppink;
+}
+a{
+    color: gold;
+}

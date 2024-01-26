@@ -1,0 +1,26 @@
+.gosh{
+    color: whitesmoke;
+
+}
+body{
+
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    color: yellow;
+}
+ul> .li{
+    cursor: pointer;
+    list-style-type: lower-roman;
+}
+
+a:hover{
+    color: deeppink;
+    border-bottom: deeppink;
+}
+a{
+    color: gold;
+}
+hr{
+    color: cornsilk;
+}

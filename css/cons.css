@@ -1,0 +1,28 @@
+.pin{
+    float: left;
+    width: 50%;
+}
+.pong{
+    float: right;
+    width: 50%;
+}
+.hun{
+    background-color: bisque;
+
+}
+.fun:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+.fun{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+a:hover{
+    color: deeppink;
+    border-bottom: deeppink;
+}
+a{
+    color: gold;
+}
